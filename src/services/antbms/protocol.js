@@ -1,0 +1,1 @@
+// ANT BMS frame codec, CRC and command definitions
