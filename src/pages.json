@@ -1,11 +1,9 @@
 {
   "pages": [
-    {
-      "path": "pages/index/index",
-      "style": {
-        "navigationBarTitleText": "电池包监控"
-      }
-    }
+    { "path": "pages/index/index", "style": { "navigationBarTitleText": "电池包监控" } },
+    { "path": "pages/ant-dashboard/ant-dashboard", "style": { "navigationBarTitleText": "ANT BMS 仪表盘" } },
+    { "path": "pages/ant-config/ant-config", "style": { "navigationBarTitleText": "ANT BMS 参数" } },
+    { "path": "pages/ant-log/ant-log", "style": { "navigationBarTitleText": "ANT BMS 日志" } }
   ],
   "globalStyle": {
     "navigationBarTextStyle": "black",

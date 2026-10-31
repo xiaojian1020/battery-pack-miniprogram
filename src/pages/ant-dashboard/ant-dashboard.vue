@@ -1,0 +1,1 @@
+<template><!-- ANT BMS dashboard --></template>

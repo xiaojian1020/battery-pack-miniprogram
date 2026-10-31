@@ -1,0 +1,1 @@
+// WeChat mini-program BLE transport for ANT BMS
